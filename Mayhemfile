@@ -1,7 +1,6 @@
 project: rnshah9/playground
 target: playground
 tests: null
-image: ghcr.io/rnshah9/playground:icon
 
 cmds:
   - cmd: /repo/bin/icont @@
