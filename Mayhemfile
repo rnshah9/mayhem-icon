@@ -1,7 +1,6 @@
-project: rnshah9/playground
-target: playground
-tests: null
+project: icon
+target: icont
 
 cmds:
-  - cmd: /repo/bin/icont @@
+  - cmd: /repo/bin/icont /test.icn
     filepath: /test.icn
