@@ -3,3 +3,4 @@ target: icont
 
 cmds:
   - cmd: /icont @@
+    filepath: /test.icn
