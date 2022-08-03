@@ -2,5 +2,4 @@ project: icon
 target: icont
 
 cmds:
-  - cmd: /repo/bin/icont /test.icn
-    filepath: /test.icn
+  - cmd: /icont @@
